@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PropertyHub Premier — Pakistan's Luxury Real Estate & 3D Architectural Platform
 
 PropertyHub Premier is an elite, world-class luxury real estate platform designed for discerning buyers, high-net-worth investors, and developers across Pakistan's primary metropolitan centers (Lahore, Karachi, Islamabad, Rawalpindi, and Faisalabad).
@@ -175,4 +174,4 @@ PropertyHub Premier implements a 3-tier rate limiting strategy:
 =======
 # Estate-Atlas
 Premium real estate platform with 3D experience, AI property assistant, admin moderation and Urdu/English support. Built with Next.js, TypeScript, Supabase and OpenAI.
->>>>>>> d11a86b5feb79c3a5a6146664cedc6b3a64fc7ec
+
