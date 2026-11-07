@@ -1,0 +1,2 @@
+alter table profiles add constraint profiles_len_check check (char_length(coalesce(full_name,'')) <= 80 and char_length(coalesce(phone,'')) <= 30);
+alter table inquiries add constraint inquiries_len_check check (char_length(coalesce(name,'')) <= 80 and char_length(coalesce(phone,'')) <= 30 and char_length(coalesce(message,'')) <= 1000);
